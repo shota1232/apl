@@ -1,2 +1,2 @@
 # apl
-webaplケーション作成
+webapl作成
